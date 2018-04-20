@@ -1,0 +1,8 @@
+Topic obama semtiment score(Sum && Average)
+-535.2246327871163,-0.018707606878263637
+Topic economy semtiment score(Sum && Average)
+-1691.0360567501161,-0.04984190216782942
+Topic microsoft semtiment score(Sum && Average)
+-270.7161678712562,-0.012385221331835363
+Topic palestine semtiment score(Sum && Average)
+-570.9975243940457,-0.06457056704670863
